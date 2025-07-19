@@ -94,12 +94,3 @@ Upload a resume, paste a job description, and let the AI analyze your resume for
 - Change the Title, Labels and other names and display formats according to your liking.
 
 
-## Contact us :
-
-- Join our [Discord Community](https://discord.com/invite/qbhACtUB)
-- Our Company Website: [Altoks AI]( https://altoks.vercel.app/)
-
-🔗 Follow us everywhere:
-- [Linkedin](https://www.linkedin.com/in/altoks-ai/)
-- [Instagram](https://www.instagram.com/altoks_ai/)
-- [X (Twitter)](https://x.com/Altoks_AI)
